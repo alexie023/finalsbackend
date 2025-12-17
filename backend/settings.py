@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-cwh(_ffm5*o$$9h=3k5xh2#5l*9gri-h#g7@(&g5o4=89wbkid
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*','https://finalsbackend-ggao.onrender.com','finalsbackend-ggao.onrender.com',;'https://snack.expo.dev/@alexie420/finals-front-endend','snack.expo.dev']
+ALLOWED_HOSTS = ['*', 'https://finalsbackend-ggao.onrender.com', 'finalsbackend-ggao.onrender.com', 'https://snack.expo.dev/@alexie420/finals-front-endend', 'snack.expo.dev']
 
 
 # Application definition
