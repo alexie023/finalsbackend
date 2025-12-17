@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: attendance-api
+    env: python
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn backend.wsgi"
